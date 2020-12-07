@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "262968890875",
+    "project_id": "meu-consagrado-5d20e",
+    "storage_bucket": "meu-consagrado-5d20e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262968890875:android:7da964d8f82406d7f2a75e",
+        "android_client_info": {
+          "package_name": "projeto.meuconsagrado.com.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262968890875-7btvptkru2ffusp83m6ja7rnodcgudpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "projeto.meuconsagrado.com.br",
+            "certificate_hash": "08bf1871db534107948533056576ba2330a7d8e9"
+          }
+        },
+        {
+          "client_id": "262968890875-b0gbut81ind3hrphho3ijlbbstn16d2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNLl_NBlVWtrJ2gU3V9Hd_WhIeek2FqKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262968890875-b0gbut81ind3hrphho3ijlbbstn16d2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

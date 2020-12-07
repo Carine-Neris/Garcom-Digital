@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imagePerfilEmpresa" type="id" />
+    <item name="editEmpresaNome" type="id" />
+    <item name="editEmpresaCategoria" type="id" />
+    <item name="buttonAcesso2" type="id" />
+    <item name="recyclerEmpresa" type="id" />
+</resources>
